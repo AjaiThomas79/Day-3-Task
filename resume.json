@@ -1,0 +1,69 @@
+{
+    "personalInfo": {
+      "name": "Ajai Thomas",
+      "designation": "Programmer",
+      "email": "ajaithomas@gmail.com",
+      "phone": "(91) 7299002232",
+      "address": {
+        "door no": "2712 poompuhar nagar",
+        "city": "Chennai",
+        "state": "TamilNadu",
+        "country": "India"
+      },
+      "age":35,
+      "gender":"Male"
+      
+    },
+    "experience": [{
+      "name": "Company1",
+      "position": "Software trainee",
+      "startDate": "2020-01-01",
+      "endDate": "2021-05-01"
+      
+    }],
+    "education": [{
+      "institution": "Madras University",
+      "Course": "MCA",
+      "startDate": "2001-01-01",
+      "endDate": "203-01-01",
+      "score": "70%"
+    }],
+    "skills": [{
+      "name": "Dot Net Development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "ASP.NET"
+      ]
+    }],
+    "languages": [{
+      "language": "Tamil",
+      "fluency": "Native speaker"
+    }],
+    "Hobbies": [{
+      "name": "Indoor Sports",
+      "keywords": [
+        "Carrom",
+        "Shuttle"
+      ]
+    }],
+    "projects": [{
+      "name": "Project",
+      "description": "Description…",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "keywords": [
+        "HTML",
+        "ASP.NET",
+        "JavaScript"
+      ],
+      "startDate": "2018-01-01",
+      "endDate": "2021-01-01",
+      "roles": [
+        "Software Analyst"
+      ]
+      
+    }]
+  }
